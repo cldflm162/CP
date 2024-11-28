@@ -4,6 +4,7 @@ using namespace std;
 
 #define space ' '
 #define newline '\n'
+#define FOR(a,b) for(int i=a;i<b;++i)
 
 typedef long long ll;
 typedef unsigned long long ull;
